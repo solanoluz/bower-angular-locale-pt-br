@@ -1,6 +1,6 @@
 {
-  "name": "angular-i18n",
-  "version": "1.3.15-build.59+sha.75abbd5",
+  "name": "angular-locale-pt-br",
+  "version": "1.3.15",
   "ignore": [
     "**/.*",
     "node_modules",

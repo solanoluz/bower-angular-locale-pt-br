@@ -1,38 +1,15 @@
-# packaged angular-i18n
-
-This repo is for distribution on `npm` and `bower`. The source for this module is in the
-[main AngularJS repo](https://github.com/angular/angular.js).
-Please file issues and pull requests against that repo.
+# Packaged angular-locale\_pt-br
 
 ## Install
 
-You can install this package either with `npm` or with `bower`.
-
-### npm
-
 ```shell
-npm install angular-i18n
+bower install angular-locale-pt-br
 ```
 
 Add a `<script>` to your `index.html`:
 
 ```html
-<script src="/node_modules/angular-i18n/angular-locale_YOUR-LOCALE.js"></script>
-```
-
-Note that this package is not in CommonJS format, so doing `require('angular-i18n')` will
-return `undefined`.
-
-### bower
-
-```shell
-bower install angular-i18n
-```
-
-Add a `<script>` to your `index.html`:
-
-```html
-<script src="/bower_components/angular-i18n/angular-locale_YOUR-LOCALE.js"></script>
+<script src="/bower_components/angular-locale-pt-br/angular-locale_pt-br.js"></script>
 ```
 
 ## Documentation
